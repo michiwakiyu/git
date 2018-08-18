@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 session_start();
 $cookieName = "ta.directcomm";
@@ -88,7 +88,7 @@ $Cache_Lite->save($data,$cache_id);
 <meta name="author" content="株式会社ダイレクトコミュニケーション">
 <meta name="format-detection" content="telephone=no">
 <meta name="robots" content="INDEX,FOLLOW">
-<title>はじめての交流分析・エゴグラムを詳しく解説======</title>
+<title>はじめての交流分析・エゴグラムを詳しく解説 </title>
 <link rel="canonical" href="http://ta.direct-comm.com/">
 <link href="common/css/common.css" rel="stylesheet" media="all">
 <link href="common/css/common_sp.css" rel="stylesheet" media="all">
